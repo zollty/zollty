@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 - 📫 some of my open-source projects: [Jretty](https://github.com/jretty-org)‥‥, [ZolltyORG](https://github.com/zollty-org)‥‥, [GitEE](https://gitee.com/zollty).
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/zollty?label=follow%20me&style=social)](https://github.com/zollty/)
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zollty/count.svg" />
-</p>
+Visitor count：![](https://komarev.com/ghpvc/?username=zollty&color=green)
 
 <!-- Light Mode
 <div>
