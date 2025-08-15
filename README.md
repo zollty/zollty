@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m using JS & TS, Java & C#, Golang, Python.
-- 🔭 over 14 years of experience in open source projects, created 30+ open source projects.
-- 👯 led many key IT projects for companies, as team leader, architect, technical director.
-- 😄 Blog: [blog.zollty.com](http://blog.zollty.com/b/) , share `300+` articles in `15 years`.
-- ⚡ Started creating open-source projects on Google Code and GitHub `since 2012`.
-- 📫 some of my open-source projects: [Jretty](https://github.com/jretty-org)‥‥, [ZolltyORG](https://github.com/zollty-org)‥‥, [GitEE](https://gitee.com/zollty).
+- 🌱 I’m using: Java & C# • JS & HTML • Python • Golang  
+- 😄 Blog: blog.zollty.com (**15** years, **300+** technical articles)  
+- ✨ Started creating OSS since 2012: Google Code → GitHub  
+- 🔭 Created **30+** OSS projects, see: [Personal](https://github.com/zollty?tab=repositories),&nbsp; [Jretty](https://github.com/jretty-org), &nbsp; [ZolltyORG](https://github.com/zollty-org), &nbsp; [GitEE](https://gitee.com/zollty).
+- 👯 Led **20+**3 projects, as Team Lead • Architect • Tech Director • CTO  
+- 📫 Focus on enterprise software R&D (full-cycle) & innovation⚡   
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/zollty?label=follow%20me&style=social)](https://github.com/zollty/)
 
 Visitor count：![](https://komarev.com/ghpvc/?username=zollty&color=green)
