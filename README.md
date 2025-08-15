@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Blog: blog.zollty.com (**15** years, **300+** technical articles)  
 - ✨ Started creating OSS since 2012: Google Code → GitHub  
 - 🔭 Created **30+** OSS projects, see: [Personal](https://github.com/zollty?tab=repositories),&nbsp; [Jretty](https://github.com/jretty-org), &nbsp; [ZolltyORG](https://github.com/zollty-org), &nbsp; [GitEE](https://gitee.com/zollty).
-- 👯 Led **20+**3 projects, as Team Lead • Architect • Tech Director • CTO  
+- 👯 Led **20+** projects, as Team Lead • Architect • Tech Director • CTO  
 - 📫 Focus on enterprise software R&D (full-cycle) & innovation⚡   
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/zollty?label=follow%20me&style=social)](https://github.com/zollty/)
 
