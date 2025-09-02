@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m using: Java & C# • JS & HTML • Python • Golang  
-- 😄 Blog: <a href="blog.zollty.com" target="_blank">blog.zollty.com</a> (**15** years, **300+** technical articles)  
+- 😄 Blog: <a href="http://blog.zollty.com" target="_blank" rel="noopener noreferrer">blog.zollty.com</a> (**15** years, **300+** technical articles)  
 - ✨ Started creating OSS since 2012: Google Code → GitHub  
 - 🔭 Created **30+** OSS projects, see: [Personal](https://github.com/zollty?tab=repositories),&nbsp; [Jretty](https://github.com/jretty-org), &nbsp; [ZolltyORG](https://github.com/zollty-org), &nbsp; [GitEE](https://gitee.com/zollty).
 - 👯 Led **20+** projects, as Team Lead • Architect • Tech Director • CTO  
