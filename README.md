@@ -1,4 +1,4 @@
-###  Hi, I'm zollty 👋
+### Hey, I'm zollty! Welcome 👋
 
 <!--
 **zollty/zollty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
