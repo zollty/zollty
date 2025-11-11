@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - 📫 Reach me: zollty@163.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👯 Led **20+** projects, as Team Lead • Architect • Tech Director • CTO  
 -->
 
 - 🌱 I’m using: Java & C# • JS & HTML • Python • Golang  
 - 😄 Blog: [blog.zollty.com](http://blog.zollty.com) (**15** years, **300+** technical articles)  
+- 📫 Focus on enterprise software R&D (full-cycle) & innovation⚡
+- 👯 Led **20+** projects, as Team Lead, Architect, Tech Director, CTO  
 - ✨ Started creating OSS since 2012: Google Code → GitHub  
 - 🔭 Created **30+** OSS projects, see: [Personal](https://github.com/zollty?tab=repositories),&nbsp; [Jretty](https://github.com/jretty-org), &nbsp; [ZolltyORG](https://github.com/zollty-org), &nbsp; [GitEE](https://gitee.com/zollty).
-- 👯 Led **20+** projects, as Team Lead • Architect • Tech Director • CTO  
-- 📫 Focus on enterprise software R&D (full-cycle) & innovation⚡   
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/zollty?label=follow%20me&style=social)](https://github.com/zollty/)
 
 Visitor count：![](https://komarev.com/ghpvc/?username=zollty&color=green)
